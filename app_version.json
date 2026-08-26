@@ -1,6 +1,6 @@
 {
   "latest_version_code": 2,
-  "latest_version_name": "0.1.1",
-  "update_message": "Обновление механизма сбора данных, 26.08.2026",
-  "download_url": "https://github.com/ticker-01/Pulse-Releases/blob/main/Pulse.apk"
+  "latest_version_name": "1.1.0",
+  "update_message": "\n Мелкие исправления \nУлучшенный парсер расписания \nНовая ситсема обновлений \n26.08.2026",
+  "download_url": "hhttps://github.com/ticker-01/Pulse-Releases/raw/main/Pulse.apk"
 }
