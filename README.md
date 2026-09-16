@@ -210,7 +210,7 @@ sequenceDiagram
 
 1. Склонировать репозиторий:
 ```bash
-git clone https://github.com/your-username/Pulse-Releases.git
+git clone https://github.com/ticker-01/Pulse-Releases.git
 
 ```
 
